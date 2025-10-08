@@ -174,7 +174,7 @@ Before you start, make sure you have:
 
         app/
         ├── Http/
-        │    ├── Controllers/
+        │    ├── Controllers/Api
         │    │     ├── AuthController.php
         │    │     └── TaskController.php
         │    └── Middleware/
