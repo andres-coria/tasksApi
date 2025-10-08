@@ -31,7 +31,7 @@ Before you start, make sure you have:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/tasksApi.git
+   git clone https://github.com/andres-coria/tasksApi.git
    cd tasksApi
 
 2. **Install dependencies**
